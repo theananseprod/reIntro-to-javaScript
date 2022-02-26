@@ -996,6 +996,9 @@ const sum = ( function() {
 console.log(sum(1,2,3)); //6
 console.log(sum(1,2,3,4)); //10
 
+/*
+ * todo : complete the rest of the module.
+**/
 // spread operator
 // : copies o
 // note: can only use as argument to function or array literal
@@ -1034,6 +1037,8 @@ console.log(sum(1,2,3,4)); //10
 // note: export only one thing from a file
 
 // import default export
+
+// credits : thank you freecodercamp.com ( & youtube ! )
 
 
 
